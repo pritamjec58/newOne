@@ -4,4 +4,6 @@
 object obj{
 
   println("hello")
+  println("now again")
+
 }
