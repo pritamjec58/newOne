@@ -1,17 +1,15 @@
 <component name="libraryTable">
   <library name="scala-library">
     <CLASSES>
-      <root url="jar://C:/Program Files (x86)/scala-2.11.0-M4/lib/scala-library.jar!/" />
-      <root url="jar://C:/Program Files (x86)/scala-2.11.0-M4/lib/scala-swing.jar!/" />
-      <root url="jar://C:/Program Files (x86)/scala-2.11.0-M4/lib/scala-actors.jar!/" />
+      <root url="jar://C:/scala-2.11.0-M4/lib/scala-actors.jar!/" />
+      <root url="jar://C:/scala-2.11.0-M4/lib/scala-library.jar!/" />
+      <root url="jar://C:/scala-2.11.0-M4/lib/scala-swing.jar!/" />
     </CLASSES>
-    <JAVADOC>
-      <root url="file://C:/Program Files (x86)/scala-2.11.0-M4/doc/scala-devel-docs/api" />
-    </JAVADOC>
+    <JAVADOC />
     <SOURCES>
-      <root url="jar://C:/Program Files (x86)/scala-2.11.0-M4/src/scala-library-src.jar!/" />
-      <root url="jar://C:/Program Files (x86)/scala-2.11.0-M4/src/scala-swing-src.jar!/" />
-      <root url="jar://C:/Program Files (x86)/scala-2.11.0-M4/src/scala-actors-src.jar!/" />
+      <root url="jar://C:/scala-2.11.0-M4/src/scala-library-src.jar!/" />
+      <root url="jar://C:/scala-2.11.0-M4/src/scala-actors-src.jar!/" />
+      <root url="jar://C:/scala-2.11.0-M4/src/scala-swing-src.jar!/" />
     </SOURCES>
   </library>
 </component>
