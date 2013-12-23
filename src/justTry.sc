@@ -13,7 +13,7 @@ object obj{
     val (gt,eq) = egt.partition(_>v)
     (le.length,eq.length,gt.length)
   }
-
+//
 
   lteqgt(Array(10,30,50,70),30)
 }
